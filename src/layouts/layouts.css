@@ -1,0 +1,21 @@
+
+.nav-box {
+    width: 100vw;
+    display: flex;
+    height: 80px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    position: fixed;
+    background: #0e4351;
+    z-index: 99;
+}
+
+.nav-box-content {
+    width: 100%;
+    position: relative;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
